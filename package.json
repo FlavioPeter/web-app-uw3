@@ -12,6 +12,7 @@
   "dependencies": {
     "@stripe/stripe-js": "^2.1.11",
     "@vue-stripe/vue-stripe": "^4.5.0",
+    "geojson-vt": "^3.2.1",
     "leaflet-draw": "^1.0.4",
     "leaflet-geojson-vt": "^1.1.0",
     "stripe": "^14.5.0",

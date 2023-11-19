@@ -6,7 +6,6 @@ import TestHeaderComp from './components/TestHeaderComp.vue';
 <template>
   <div>
     <TestHeaderComp />
-
     <RouterView />
   </div>
 </template>
